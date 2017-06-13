@@ -1,0 +1,12 @@
+{
+  "autoPin": true,
+  "pins": [
+    {
+      "package": "CLibev",
+      "reason": null,
+      "repositoryURL": "https://github.com/zero778/clibev",
+      "version": "1.0.0"
+    }
+  ],
+  "version": 1
+}
